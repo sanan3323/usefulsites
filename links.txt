@@ -1,0 +1,12 @@
+https://github.com/sinanerdinc/turkce-python-kaynaklari 
+https://python-istihza.yazbel.com
+https://bilgisayarkavramlari.com
+https://www.w3schools.com/GIT/git_branch.asp
+https://kodmuhendisleri.com/t/algoritma
+https://www.brain.fm/login?next=/app/player
+https://devdocs.io/python~3.9/
+https://gigacourse.com/?s=Git+%26+GitHub+
+https://medium.com/devopsturkiye/git-nedir-b9213666856c
+https://aliozgur.gitbooks.io/git101/content/branching_dallanma_ve_merging_birlestirme/degisiklikleri_merge_etmek.html
+https://github.com/fatihacet/turkcekaynaklar-com
+
