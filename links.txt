@@ -10,3 +10,10 @@ https://medium.com/devopsturkiye/git-nedir-b9213666856c
 https://aliozgur.gitbooks.io/git101/content/branching_dallanma_ve_merging_birlestirme/degisiklikleri_merge_etmek.html
 https://github.com/fatihacet/turkcekaynaklar-com
 
+
+#sitesforSQL
+https://ittutorial.org/oracle-veritabaninda-index-kavrami-ve-kullanimi-1/
+https://docplayer.biz.tr/1145909-Oracle-ders-1-sql-e-giris.html
+https://orhaneripek.com/2009/04/16/duplica-kayitlari-silmek/
+https://docs.oracle.com/en/database/oracle/oracle-database/21/tdddg/two-day-developer-intro.html#GUID-AE8B7A74-AD1F-4474-B0CF-B3E95D075DDA
+https://docs.oracle.com/database/121/SQLRF/preface.htm#SQLRF50918
